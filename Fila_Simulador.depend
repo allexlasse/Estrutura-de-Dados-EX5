@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1557167578 source:c:\users\allex\desktop\ads\3_ciclo\estrutura de dados\simulador de fila\fila_simulador\main.cpp
+	<iostream>
+	"Fila_Encadeada.h"
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1557161355 c:\users\allex\desktop\ads\3_ciclo\estrutura de dados\simulador de fila\fila_simulador\fila_encadeada.h
+
+1557026292 c:\users\allex\desktop\ads\3_ciclo\estrutura de dados\simulador de fila\fila_simulador\fila_ligada_ordenada.h
+
